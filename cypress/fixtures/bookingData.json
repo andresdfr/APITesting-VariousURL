@@ -1,0 +1,13 @@
+{
+  "postData": {
+    "firstname": "Andres",
+    "lastname": "Fernandez",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2022-01-01",
+      "checkout": "2022-02-02"
+    },
+    "additionalneeds": "Breakfast"
+  }
+}
