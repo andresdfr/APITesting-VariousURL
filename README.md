@@ -5,6 +5,7 @@ Used in this project:
 - Use of environment variables.
 - Last version of Cypress.
 - .gitignore files with their respective description.
+- cy.intercept usage examples.
 
 Installation:
 - https://code.visualstudio.com/
